@@ -13,9 +13,9 @@ Tickets sind über unsere selbst gehostete Pretix Instanz verfügbar. Die Bezahl
 
 https://tickets.bitcoin-alps.ch/bitcoin-alps/2023/
 
-## Wann und Wann
+## Date and Place
 
-9. September 2023 im Burgsaal, Thun
+9\. September 2023 im Burgsaal, Thun
 
 ## Programm
 
