@@ -20,3 +20,9 @@ https://tickets.bitcoin-alps.ch/bitcoin-alps/2023/
 ## Programm
 
 Das Programm wird bald verfügbar sein.
+
+## Sponsoren
+
+<img src="/img/sponsoren_lipa.jpg" alt="Lipa" width="200"/>
+
+<img src="/img/sponsoren_stadtthun.png" alt="StadtThun" style="width: 200px;">
