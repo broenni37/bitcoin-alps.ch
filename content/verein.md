@@ -48,7 +48,11 @@ Finanziell
   <button type="submit" name="choiceKey" value="bitcoin alps spende"><img src="/img/bitcoin_spenden.svg" alt="Bitcoin Spende Button"></button>
 </form>
 
-## Mitglieder werden
+## Mitglied werden
 
 Du hast die Möglichkeit den Antrag auf Mitgliedschaft per Mail via\
 verein(ät)bitcoin-alps.ch zu stellen.
+
+## Statuten
+
+Unsere Statuten sind hier einsebar: [Statuten](/docs/Statuten_Bitcoin_Alps_V01.00.pdf)
