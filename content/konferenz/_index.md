@@ -23,6 +23,10 @@ Das Programm wird bald verfügbar sein.
 
 ## Sponsoren
 
-<img src="/img/sponsoren_lipa.jpg" alt="Lipa" width="200"/>
+<a href="https://lipa.swiss/" target="_blank">
+    <img src="/img/sponsoren_lipa.jpg" alt="Lipa" width="200"/>
+</a>
 
-<img src="/img/sponsoren_stadtthun.png" alt="StadtThun" style="width: 200px;">
+<a href="https://www.thun.ch/" target="_blank">
+    <img src="/img/sponsoren_stadtthun.png" alt="StadtThun" style="width: 200px;">
+</a>
