@@ -55,4 +55,4 @@ verein(ät)bitcoin-alps.ch zu stellen.
 
 ## Statuten
 
-Unsere Statuten sind hier einsebar: [Statuten](/docs/Statuten_Bitcoin_Alps_V01.00.pdf)
+Unsere Statuten sind hier einsehbar: [Statuten](/docs/Statuten_Bitcoin_Alps_V01.00.pdf)
