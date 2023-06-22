@@ -17,6 +17,17 @@ Tickets sind über unsere selbst gehostete Pretix Instanz verfügbar. Die Bezahl
 
 https://tickets.bitcoin-alps.ch/bitcoin-alps/2023/
 
+Im Normalticket inbegriffen:
+- Begrüssungskaffe mit Gipfeli.
+- Mittagsstehlunch mit Fleisch oder vegetarischem Menü. (Vegan muss gemeldet werden.)
+- Gratis Kaffe und Mineral während der Konferenz.
+
+Im VIP-Ticket inbegriffen:
+- Exklusives Stehlunch Abendessen nach den Konferenztalks, mit Speakern und Sponsoren in separaten Räumlichkeiten.
+- Begrüssungskaffe mit Gipfeli.
+- Mittagsstehlunch mit Fleisch oder vegetarischem Menü. (Vegan muss gemeldet werden.)
+- Gratis Kaffe und Mineral während der Konferenz.
+
 ## Date and Place
 
 9\. September 2023 im Burgsaal, Thun
