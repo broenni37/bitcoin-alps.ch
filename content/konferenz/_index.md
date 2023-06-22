@@ -7,7 +7,7 @@ Nachdem das lokale Bitcoin-Meetup in Thun über die Jahre langsam und organisch 
 
 Unsere Konferenz richtetet sich im Grundsatz an Personen die sich über Bitcoin informieren wollen, sich im Anfangsstadium in der Benutzung von Bitcoin befinden oder an Bitcoiner/Plebs, die bis jetzt keine gute Möglichkeit gefunden haben um ihre Familien, Freundeskreise, Kollegen, Mitarbeiter oder Firmen in die Welt des Bitcoins führen zu können. Eine andere Stimme oder Blickwinkel ist manchmal Hilfreich.
 
-Wir freuen uns sehr über die Zusage unseres Keynote Redners Roman Reher (a.k.a. Der Blocktrainer, grösster deutschsprachiger Bitcoin Youtube Kanal) sowie seine Frau Debbie Reher, die die Moderatorin der Konferenz sein wird. Für die Begrüssungsrede konnten wir Herrn Raphael Lanz, Stadtpräsident von Thun, Kantonsparlamentarier und Mitglied der Finanzkommission des Grossen Rates, gewinnen.
+Für die Begrüssungsrede konnten wir Herrn Raphael Lanz, Stadtpräsident von Thun, Kantonsparlamentarier und Mitglied der Finanzkommission des Grossen Rates, gewinnen.
 
 Weitere Infos werden bald folgen.
 
