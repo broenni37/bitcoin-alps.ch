@@ -15,6 +15,7 @@ Weitere Infos werden bald folgen.
 
 Tickets sind über unsere selbst gehostete Pretix Instanz verfügbar. Die Bezahlung ist per Banküberweisung, PayPal, Kreditkarte (Stripe) und natürlich mit Bitcoin (10% Rabatt) möglich.
 
+Dieser Link führt dich zum Ticket kauf:
 https://tickets.bitcoin-alps.ch/bitcoin-alps/2023/
 
 Im Normalticket inbegriffen:
