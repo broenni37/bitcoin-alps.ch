@@ -5,7 +5,7 @@ layoutBackgroundHeaderSpace: false
 
 Nachdem das lokale Bitcoin-Meetup in Thun über die Jahre langsam und organisch gewachsen ist, wurde im November 2022 der Verein «Bitcoin Alps» gegründet. Unser erster grösserer Vereinsanlass wird die Bitcoin Alps Konferenz vom 9. September 2023 in Thun sein.
 
-Unsere Konferenz richtetet sich im Grundsatz an Personen die sich über Bitcoin informieren wollen, sich im Anfangsstadium in der Benutzung von Bitcoin befinden oder an Bitcoiner/Plebs, die bis jetzt keine gute Möglichkeit gefunden haben um ihre Familien, Freundeskreise, Kollegen, Mitarbeiter oder Firmen in die Welt des Bitcoins führen zu können. Eine andere Stimme oder Blickwinkel ist manchmal Hilfreich.
+Unsere Konferenz richtetet sich im Grundsatz an Personen die sich über Bitcoin informieren wollen, sich im Anfangsstadium in der Benutzung von Bitcoin befinden oder an Bitcoiner/Plebs, die bis jetzt keine gute Möglichkeit gefunden haben um ihre Familien, Freundeskreise, Kollegen, Mitarbeiter oder Firmen in die Welt des Bitcoins führen zu können. Eine andere Stimme oder Blickwinkel ist manchmal hilfreich.
 
 Für die Begrüssungsrede konnten wir Herrn Raphael Lanz, Stadtpräsident von Thun, Kantonsparlamentarier und Mitglied der Finanzkommission des Grossen Rates, gewinnen.
 
