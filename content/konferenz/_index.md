@@ -1,5 +1,5 @@
 ---
-title: "Konferenz"
+title: "Bitcoin Alps Konferenz 2023"
 layoutBackgroundHeaderSpace: false
 ---
 
