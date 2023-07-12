@@ -2,11 +2,10 @@
 title: "Bitcoin Alps Konferenz 2023"
 layoutBackgroundHeaderSpace: false
 ---
+
 <b>Die 1. Bitcoin-Konferenz im Kanton Bern.</b>
 
 Egal ob du bereits Bitcoin besitzt oder einfach nur neugierig bist, diese Konferenz ist für dich gemacht - denn Bitcoin ist für alle!
-## Date and Place
-9\. September 2023 im Burgsaal, Thun
 
 ## Tickets 
 
@@ -26,6 +25,9 @@ Im VIP-Ticket inbegriffen:
 - Begrüssungskaffe mit Gipfeli.
 - Mittagsstehlunch mit Fleisch oder vegetarischem Menü. (Vegan muss gemeldet werden.)
 - Gratis Kaffe und Mineral während der Konferenz.
+
+## Date and Place
+9\. September 2023 im Burgsaal, Thun
 
 ## Grundinformationen zur Konferenz
 
