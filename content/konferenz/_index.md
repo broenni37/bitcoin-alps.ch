@@ -5,9 +5,7 @@ layoutBackgroundHeaderSpace: false
 <b>Die 1. Bitcoin-Konferenz im Kanton Bern.</b>
 
 Egal ob du bereits Bitcoin besitzt oder einfach nur neugierig bist, diese Konferenz ist für dich gemacht - denn Bitcoin ist für alle!
-
 ## Date and Place
-
 9\. September 2023 im Burgsaal, Thun
 
 ## Tickets 
