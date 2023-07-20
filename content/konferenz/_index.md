@@ -42,16 +42,9 @@ Weitere Infos werden bald folgen.
 
 ## Programm
 
-<script type="text/javascript" src="https://programm.bitcoin-alps.ch/konferenz-2023/schedule/widget/v2.en.js"></script>
-<pretalx-schedule event-url="https://programm.bitcoin-alps.ch/konferenz-2023/" locale="de" format="grid" style="--pretalx-clr-primary: #8E44B3"></pretalx-schedule>
-<noscript>
-   <div class="pretalx-widget">
-        <div class="pretalx-widget-info-message">
-            JavaScript is disabled in your browser. To access our schedule without JavaScript,
-            please <a target="_blank" href="https://programm.bitcoin-alps.ch/konferenz-2023/schedule/">click here</a>.
-        </div>
-    </div>
-</noscript>
+Das aktuelle Porgramm findest du hier:
+
+https://programm.bitcoin-alps.ch/konferenz-2023/schedule/
 
 ## Sponsoren
 
