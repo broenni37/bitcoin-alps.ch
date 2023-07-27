@@ -41,11 +41,15 @@ Eine andere Stimme oder Blickwinkel ist manchmal hilfreich.
 
 Für die Begrüssungsrede konnten wir Herrn **Raphael Lanz, Stadtpräsident von Thun**, Kantonsparlamentarier und Mitglied der Finanzkommission des Grossen Rates, gewinnen.
 
+Durch das Programm wird dich als Moderator **Ronnie Grob, Chefredaktor des Magazins "Schweizer Monat"**, führen.
+
 ## Programm
 
-Das aktuelle Programm findest du hier:
+**Das aktuelle Programm findest du hier:**
 
 [https://programm.bitcoin-alps.ch](https://programm.bitcoin-alps.ch/konferenz-2023/schedule/ "Aktuelles Programm")
+
+Leider werden die Rahmenprogramm-Informationen auf den Mobilen Web-Browser nicht dargestellt, diese siehst du auf den Desktop-Browser.
 
 ## Sponsoren
 
