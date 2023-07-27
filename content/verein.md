@@ -22,7 +22,7 @@ Das Ziel von „Bitcoin Alps“ besteht in der Vereinigung von Menschen die sich
 ## Vorstand
 
 - Community: Samuel B
-- Datenschutz, Informatik, Security: Fabian und der andere IT Guy
+- Datenschutz, Informatik, Security: Fabian und [der andere IT Guy](https://github.com/the-other-it-guy "der andere IT Guy Link")
 - Finanzen: Andreas, Beny und Emanuel
 - Geschäftsentwicklung, Operations: Beny und Martin
 - Kommunikation, Fundraising & Marketing: Beny (Kommunikation) Martin und Emanuel (Fundraising)
