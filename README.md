@@ -18,7 +18,7 @@ This README file explains how to install and use Hugo, the Blowfish theme, and t
 2. Clone the github repository:
 
     ```bash
-    git clone github.com/<username>/<repo-name>
+    git clone https://github.com/bitcoin-alps/bitcoin-alps.ch.git
     ```
 
 ## Development
