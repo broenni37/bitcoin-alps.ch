@@ -24,8 +24,8 @@ Das Ziel von „Bitcoin Alps“ besteht in der Vereinigung von Menschen die sich
 - Community: Samuel B
 - Datenschutz, Informatik, Security: Fabian und der andere IT Guy
 - Finanzen: Andreas, Beny und Emanuel
-- Geschäftsentwicklung, Operations: Beny, Marc und Martin
-- Kommunikation, Fundraising & Marketing: Beny (Kommunikation) Marc, Martin und Emanuel (Fundraising)
+- Geschäftsentwicklung, Operations: Beny und Martin
+- Kommunikation, Fundraising & Marketing: Beny (Kommunikation) Martin und Emanuel (Fundraising)
 - Public Relations: Samuel und Emanuel
 - Recht: Beny
 
@@ -55,4 +55,4 @@ verein(ät)bitcoin-alps.ch zu stellen.
 
 ## Statuten
 
-Unsere Statuten sind hier einsehbar: [Statuten](/docs/Statuten_Bitcoin_Alps_V01.00.pdf)
+Unsere Statuten sind hier einsehbar: [Statuten](/docs/Statuten_Bitcoin_Alps_V02.00.pdf)
