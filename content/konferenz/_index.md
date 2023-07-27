@@ -56,3 +56,7 @@ Das aktuelle Programm findest du hier:
 <a href="https://www.thun.ch/" target="_blank">
     <img src="/img/sponsoren_stadtthun.png" alt="StadtThun" style="width: 200px;">
 </a>
+
+## Medienpartner
+
+<a href="https://schweizermonat.ch/" target="_blank"> </a>
