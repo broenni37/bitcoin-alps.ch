@@ -5,7 +5,7 @@ layoutBackgroundHeaderSpace: false
 
 Auch Bitcoin Alps betreibt einen eigenen Lightning Node. Wir würden uns freuen wenn du ein Kanal zu uns aufmachst:
 
-[`032fb99b520a0528f48ccb4e4f5be909a6348dbdb939dead0f751b90098018d262@86.48.0.225:9735`](https://pay.bitcoin-alps.ch/embed/71NPM4bRJUAhYdMeM8JUGkcRrVSmG3P71kHKpfq9w5Rj/BTC/ln)
+[`032fb99b520a0528f48ccb4e4f5be909a6348dbdb939dead0f751b90098018d262@86.48.0.225:9735`](https://pay.bitcoin-alps.ch/embed/71NPM4bRJUAhYdMeM8JUGkcRrVSmG3P71kHKpfq9w5Rj/BTC/ln "BTC Pay Server Link")
 
 ## Was ist Lightning
 

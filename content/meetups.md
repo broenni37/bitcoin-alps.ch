@@ -16,4 +16,4 @@ Wir führen jeweils gemütliche Austausch- und Diskussionsrunden zum Thema Bitco
 Wir sind für alle Interessierten offen, ihr müsst nicht zwingend eine Vorkenntnis über Bitcoin haben.
 Die Sprache passen wir an die Teilnehmer an, normalerweise Deutsch oder Englisch.
 
-<https://www.meetup.com/bitcoin-bern/>
+[https://www.meetup.com/bitcoin-bern/](https://www.meetup.com/bitcoin-bern/ "Meetup Link")
