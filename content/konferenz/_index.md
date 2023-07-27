@@ -63,4 +63,6 @@ Leider werden die Rahmenprogramm-Informationen auf den Mobilen Web-Browser nur d
 
 ## Medienpartner
 
-<a href="https://schweizermonat.ch/" target="_blank"> </a>
+<a href="https://schweizermonat.ch" target="_blank">
+    <img src="/img/schweizer_monat_logo.svg" alt="StadtThun" style="width: 200px;">
+</a>
