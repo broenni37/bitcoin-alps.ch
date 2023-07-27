@@ -26,7 +26,7 @@ Das Ziel von „Bitcoin Alps“ besteht in der Vereinigung von Menschen die sich
 - Finanzen: Andreas, Beny und Emanuel
 - Geschäftsentwicklung, Operations: Beny und Martin
 - Kommunikation, Fundraising & Marketing: Beny (Kommunikation) Martin und Emanuel (Fundraising)
-- Public Relations: Samuel und Emanuel
+- Public Relations: [Samuel](https://twitter.com/samuelkullmann "Samuel Link") und Emanuel
 - Recht: Beny
 
 ## Unterstütze uns
