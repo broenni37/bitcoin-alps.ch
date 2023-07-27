@@ -1,7 +1,7 @@
-languageCode = "en"
-languageName = "English"
-displayName = "EN"
-isoCode = "en"
+languageCode = "de"
+languageName = "Deutsch"
+displayName = "DE"
+isoCode = "de"
 weight = 1
 rtl = false
 

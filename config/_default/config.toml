@@ -4,7 +4,7 @@
 
 # theme = "blowfish"
 baseURL = "https://www.bitcoin-alps.ch"
-defaultContentLanguage = "en"
+defaultContentLanguage = "de"
 
 # pluralizeListTitles = "true" # hugo function useful for non-english languages, find out more in  https://gohugo.io/getting-started/configuration/#pluralizelisttitles
 
