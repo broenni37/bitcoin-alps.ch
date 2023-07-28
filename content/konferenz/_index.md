@@ -49,7 +49,7 @@ Durch das Programm wird dich als Moderator **Ronnie Grob, Chefredaktor des Magaz
 
 [https://programm.bitcoin-alps.ch](https://programm.bitcoin-alps.ch/konferenz-2023/schedule/ "Aktuelles Programm")
 
-Leider werden die Rahmenprogramm-Informationen auf den Mobilen Web-Browser nur dargestellt, wenn du das Handy quer hälst.
+Leider werden die Rahmenprogramm-Informationen auf den mobilen Web-Browser nur dargestellt, wenn du das Handy quer hältst.
 
 ## Sponsoren
 
