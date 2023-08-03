@@ -57,6 +57,12 @@ Leider werden die Rahmenprogramm-Informationen auf den mobilen Web-Browser nur d
     <img src="/img/sponsoren_lipa.jpg" alt="Lipa" width="200"/>
 </a>
 
+<a href="https://pocketbitcoin.com/de/" target="_blank">
+</a>
+
+<a href="https://www.bainox.com/" target="_blank">
+</a>
+
 <a href="https://www.thun.ch/" target="_blank">
     <img src="/img/sponsoren_stadtthun.png" alt="StadtThun" style="width: 200px;">
 </a>
