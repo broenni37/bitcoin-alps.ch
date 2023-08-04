@@ -5,11 +5,11 @@ layoutBackgroundHeaderSpace: false
 
 ## Gründung
 
-Nachdem das lokale Bitcoin-Meetup in Thun über die Jahre langsam und organisch gewachsen ist, haben wir im November 2022 (Blockzeit 765080) den Verein «Bitcoin Alps» gegründet.
+Nachdem das lokale Bitcoin-Meetup in Thun über die Jahre langsam und organisch gewachsen ist, haben wir **im November 2022** (Blockzeit 765080) den Verein «Bitcoin Alps» gegründet.
 
 ## Zweck
 
-Der Verein bezweckt insbesondere den gemeinnützigen Aufbau, sowie die Entwicklung und Unterstützung eines bestmöglichen Umfeldes für die Adoption von Bitcoin. Dies zur Nutzung von kulturellen, ökologischen, ökonomischen, politischen und sozialen Vorteilen durch „hartem (gesundem) Geld“. Dadurch sollen dezentrale, politisch neutrale und freie marktwirtschaftliche Alternativen für die Gesellschaft entstehen. Dies zu Gunsten der individuellen Freiheit und Souveränität sowie des Wohlstandes.
+Der Verein bezweckt insbesondere den **gemeinnützigen Aufbau, sowie die Entwicklung und Unterstützung eines bestmöglichen Umfeldes für die Adoption von Bitcoin**. Dies zur Nutzung von kulturellen, ökologischen, ökonomischen, politischen und sozialen Vorteilen durch „hartem (gesundem) Geld“. Dadurch sollen dezentrale, politisch neutrale und freie marktwirtschaftliche Alternativen für die Gesellschaft entstehen. **Dies zu Gunsten der individuellen Freiheit und Souveränität sowie des Wohlstandes**.
 
 Das Ziel von „Bitcoin Alps“ besteht in der Vereinigung von Menschen die sich an eigenverantwortlichen, rücksichtsvollen und selbstbestimmten Grundsätzen orientieren und sich für eine freiheitliche Gesellschaftsordnung sowie soziale Gerechtigkeit einsetzen. „Bitcoin Alps“ fördert eine faktenbasierte, kritische, verknüpfte und transparente Willensbildung, gestaltet unsere Lebenswelt aktiv mit und bekräftigt seine Ausrichtung durch die Vernetzung von Individuen, Unternehmen und Open Source Initiativen, sowie durch die Förderung der Gemeinschaft.
 
@@ -31,11 +31,11 @@ Das Ziel von „Bitcoin Alps“ besteht in der Vereinigung von Menschen die sich
 
 ## Unterstütze uns
 
-Als Mitglied
+**Als Mitglied**
 
 Mitglieder von „Bitcoin Alps“ können natürliche und juristische Personen werden, die den Vereinszweck und deren Ziele unterstützen und sich mit unseren statutarischen Grundsätzen/Werten identifizieren können.
 
-Finanziell
+**Finanziell**
 
 - Unsere Bankverbindung für Fiat-Zahlungen:
 
