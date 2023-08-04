@@ -9,7 +9,7 @@ Nachdem das lokale Bitcoin-Meetup in Thun über die Jahre langsam und organisch 
 
 ## Zweck
 
-Der Verein bezweckt insbesondere den **gemeinnützigen Aufbau, sowie die Entwicklung und Unterstützung eines bestmöglichen Umfeldes für die Adoption von Bitcoin**. Dies zur Nutzung von kulturellen, ökologischen, ökonomischen, politischen und sozialen Vorteilen durch „hartem (gesundem) Geld“. Dadurch sollen dezentrale, politisch neutrale und freie marktwirtschaftliche Alternativen für die Gesellschaft entstehen. **Dies zu Gunsten der individuellen Freiheit und Souveränität sowie des Wohlstandes**.
+Der Verein bezweckt insbesondere den **gemeinnützigen Aufbau, sowie die Entwicklung und Unterstützung eines bestmöglichen Umfeldes für die Adoption von Bitcoin**. Dies zur Nutzung von kulturellen, ökologischen, ökonomischen, politischen und sozialen Vorteilen durch „hartem (gesundem) Geld“. Dadurch sollen dezentrale, politisch neutrale und freie marktwirtschaftliche Alternativen für die Gesellschaft entstehen. **Dies zugunsten der individuellen Freiheit und Souveränität sowie des Wohlstandes**.
 
 Das Ziel von „Bitcoin Alps“ besteht in der Vereinigung von Menschen die sich an eigenverantwortlichen, rücksichtsvollen und selbstbestimmten Grundsätzen orientieren und sich für eine freiheitliche Gesellschaftsordnung sowie soziale Gerechtigkeit einsetzen. „Bitcoin Alps“ fördert eine faktenbasierte, kritische, verknüpfte und transparente Willensbildung, gestaltet unsere Lebenswelt aktiv mit und bekräftigt seine Ausrichtung durch die Vernetzung von Individuen, Unternehmen und Open Source Initiativen, sowie durch die Förderung der Gemeinschaft.
 
