@@ -54,23 +54,23 @@ Leider werden die Rahmenprogramm-Informationen auf den mobilen Web-Browser nur d
 ## Sponsoren
 
 <a href="https://lipa.swiss/" target="_blank">
-    <img src="/img/sponsoren_lipa.jpg" alt="Lipa" width="200"/>
+    <img src="/img/sponsor/lipa.jpg" alt="Lipa" width="200"/>
 </a>
 
 <a href="https://pocketbitcoin.com/" target="_blank">
-    <img src="/img/pocket.svg" alt="Pocket" width="200"/>
+    <img src="/img/sponsor/pocket.svg" alt="Pocket" width="200"/>
 </a>
 
 <a href="https://www.bainox.com/" target="_blank">
-    <img src="/img/bainox.png" alt="Bainox" width="200"/>
+    <img src="/img/sponsor/bainox.svg" alt="Bainox" width="200"/>
 </a>
 
 <a href="https://www.thun.ch/" target="_blank">
-    <img src="/img/sponsoren_stadtthun.png" alt="StadtThun" style="width: 200px;">
+    <img src="/img/sponsor/stadtthun.png" alt="Stadt Thun" style="width: 200px;">
 </a>
 
 ## Medienpartner
 
 <a href="https://schweizermonat.ch" target="_blank">
-    <img src="/img/schweizer_monat_logo.svg" alt="StadtThun" style="width: 200px;">
+    <img src="/img/sponsor/schweizermonat.svg" alt="Schweizer Monat" style="width: 200px;">
 </a>
