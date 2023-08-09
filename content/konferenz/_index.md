@@ -65,6 +65,10 @@ Leider werden die Rahmenprogramm-Informationen auf den mobilen Web-Browser nur d
     <img src="/img/sponsor/bainox.svg" alt="Bainox" width="200"/>
 </a>
 
+<a href="https://brainpark.ch/" target="_blank">
+    <img src="/img/sponsor/brainpark.png" alt="Brainpark" style="width: 200px;">
+</a>
+
 <a href="https://www.thun.ch/" target="_blank">
     <img src="/img/sponsor/stadtthun.png" alt="Stadt Thun" style="width: 200px;">
 </a>
