@@ -17,16 +17,16 @@ Tickets sind über unsere selbst gehostete Pretix Instanz verfügbar. Die Bezahl
 
 Im Normalticket inbegriffen:
 
-- Begrüssungskaffe mit Gipfeli.
+- Begrüssungskaffee mit Gipfeli.
 - Mittagsstehlunch mit Fleisch oder vegetarischem Menü. (Vegan muss gemeldet werden.)
-- Gratis Kaffe und Mineral während der Konferenz.
+- Gratis Kaffee und Mineral während der Konferenz.
 
 Im VIP-Ticket inbegriffen:
 
 - Exklusives Stehlunch Abendessen nach den Konferenztalks, mit Speakern und Sponsoren in separaten Räumlichkeiten.
-- Begrüssungskaffe mit Gipfeli.
+- BegrüssungsKaffee mit Gipfeli.
 - Mittagsstehlunch mit Fleisch oder vegetarischem Menü. (Vegan muss gemeldet werden.)
-- Gratis Kaffe und Mineral während der Konferenz.
+- Gratis Kaffee und Mineral während der Konferenz.
 
 ## Date and Place
 
