@@ -8,7 +8,7 @@ defaultContentLanguage = "de"
 
 # pluralizeListTitles = "true" # hugo function useful for non-english languages, find out more in  https://gohugo.io/getting-started/configuration/#pluralizelisttitles
 
-enableRobotsTXT = true
+enableRobotsTXT = false
 paginate = 20
 summaryLength = 30
 
