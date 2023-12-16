@@ -18,4 +18,4 @@ Wir führen jeweils gemütliche **Austausch- und Diskussionsrunden** zum Thema B
 Wir sind für **alle Interessierten offen**, ihr müsst nicht zwingend eine Vorkenntnis über Bitcoin haben.
 Die Sprache passen wir an die Teilnehmer an, diese ist normalerweise Deutsch oder Englisch.
 
-[https://www.meetup.com/bitcoin-bern/](https://www.meetup.com/bitcoin-bern/ "Meetup Link")
+[https://www.meetup.com/bitcoin-alps/](https://www.meetup.com/bitcoin-alps/ "Meetup Link")
