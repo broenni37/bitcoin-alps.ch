@@ -26,9 +26,21 @@
   weight = 30
 
 [[main]]
-  name = "Lightning"
-  pageRef = "lightning"
+  name = "Infos"
+  pageRef = "informationen"
   weight = 40
+
+[[main]]
+  name = "Lightning"
+  parent = "Infos"
+  pageRef = "informationen/lightning"
+  weight = 42
+
+[[main]]
+  name = "Politik"
+  parent = "Infos"
+  pageRef = "informationen/politik"
+  weight = 43
 
 [[main]]
   name = "Kontakt"

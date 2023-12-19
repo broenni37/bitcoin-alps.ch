@@ -1,0 +1,13 @@
+---
+title: "Politik"
+layoutBackgroundHeaderSpace: false
+---
+
+**Interpellation zur Bitcoin Konferenz in Thun**
+
+Aufgrund der Bitcoin Konferenz 2023 kam es zu Fragen, welche an einer Thuner Stadtratssitzung gestellt wurden.
+Nachfolgend unsere Antwort an die Antragsstellerin und den Wortlaut der Interpellation.
+
+[Antwortbrief des Vereins Bitcoin Alps](/docs/Antwort_Interpellation.pdf)
+
+[Wortlaut der Interpellation](/docs/Interpellation_Wortlaut.pdf)
